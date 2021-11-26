@@ -32,7 +32,7 @@ Reputation / Trend / Hype
 Flutter ()   
 Angular ()   
 VueJS ()   
-Svelte ()   
+**Svelte** ()   
 React (Native) ()   
 Kotlin (Native) ()   
 
@@ -48,8 +48,8 @@ Firebase - Backend as a Service ()
 Python ()  
 Java ()  
 NodeJS ()     
-Deno ()  
-[EVM](https://deno.land/x/web3) ()  
+**Deno** ()  
+**[EVM](https://deno.land/x/web3)** ()  
 
 
 ## Themensammlung / Projektvorschläge
@@ -65,6 +65,9 @@ Die App soll den o.g. Werten gerecht werden
 Code Quality (High Cohesion, Loose Coupling, Separation of Concerncs)  
 Goodie: Automatisierte Unit Tests...  
 
+
+## Bewertungszeitpunkt
+Eure Note steht am Ende der letzten Vorlesung dieses Semesters fest. Zwischenbenotungen auf Wunsch von Euch sind möglich.  
 
 ### Progressive Web Apps
 offline verfügbarkeit (service workers)    
