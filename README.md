@@ -53,6 +53,16 @@ Deno ()
 
 
 ## Themensammlung / Projektvorschläge
+[dance-planner.org]()   
+[volatility farming](https://github.com/distributed-ledger-technology/vofarm)  
+NFT Platform
+
+
+## Bewertungskriterien
+Technologieentscheidungen sollen nachvollziehbar und klar dokumentiert sein   
+Die App soll den o.g. Werten gerecht werden   
+Code Quality (High Cohesion, Loose Coupling, Separation of Concerncs)  
+Goodie: Automatisierte Unit Tests...  
 
 
 ### Progressive Web Apps
