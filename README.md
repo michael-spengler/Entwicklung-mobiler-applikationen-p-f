@@ -54,9 +54,10 @@ NodeJS ()
 
 ## Themensammlung / Projektvorschläge
 [dance-planner.org]()   
-[volatility farming](https://github.com/distributed-ledger-technology/vofarm)  
-NFT Platform  
+[volatility farming](https://github.com/distributed-ledger-technology/vofarm)   
+NFT Platform   
 QRate   
+Aufgaben Marktplatz (fiverr like aber open source und dezentral - Peer 2 Peer Marketplace)  
 
 
 ## Bewertungskriterien
