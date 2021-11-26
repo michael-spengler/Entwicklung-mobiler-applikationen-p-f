@@ -28,7 +28,7 @@ Reputation / Trend / Hype
 
 ## Technologiesammlung / Optionen 
 
-### Frameworks*
+### Frontend Frameworks*
 Flutter ()   
 Angular ()   
 VueJS ()   
@@ -37,9 +37,23 @@ React (Native) ()
 Kotlin (Native) ()   
 
 
-### Utility Collection
+### Frontend Utility Collection
 Bootstrap ()   
 Material Design...  
+[Metamask Interaction](https://docs.metamask.io/guide/getting-started.html#basic-considerations) 
+
+
+### Backend Entwicklung Laufzeitumgebungen*
+Firebase - Backend as a Service ()  
+Python ()  
+Java ()  
+NodeJS ()     
+Deno ()  
+[EVM](https://deno.land/x/web3) ()  
+
+
+## Themensammlung / Projektvorschläge
+
 
 ### Progressive Web Apps
 offline verfügbarkeit (service workers)    
