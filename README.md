@@ -55,7 +55,8 @@ Deno ()
 ## Themensammlung / Projektvorschläge
 [dance-planner.org]()   
 [volatility farming](https://github.com/distributed-ledger-technology/vofarm)  
-NFT Platform
+NFT Platform  
+QRate   
 
 
 ## Bewertungskriterien
