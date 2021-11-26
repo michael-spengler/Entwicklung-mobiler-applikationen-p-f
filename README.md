@@ -26,7 +26,20 @@ Einfachheit der Lösung
 Reputation / Trend / Hype
 
 
+## Technologiesammlung / Optionen 
 
+### Frameworks*
+Flutter ()   
+Angular ()   
+VueJS ()   
+Svelte ()   
+React (Native) ()   
+Kotlin (Native) ()   
+
+
+### Utility Collection
+Bootstrap ()   
+Material Design...  
 
 ### Progressive Web Apps
 offline verfügbarkeit (service workers)    
