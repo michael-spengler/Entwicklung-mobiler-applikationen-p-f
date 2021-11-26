@@ -69,6 +69,9 @@ Goodie: Automatisierte Unit Tests...
 ## Bewertungszeitpunkt
 Eure Note steht am Ende der letzten Vorlesung dieses Semesters fest. Zwischenbenotungen auf Wunsch von Euch sind möglich.  
 
+## Organisatorisch
+5% Gewinn- NICHT Verlust - Beteiligung für Spengler  
+
 ### Progressive Web Apps
 offline verfügbarkeit (service workers)    
 icon auf dem homescreen (manifest.yml)  
