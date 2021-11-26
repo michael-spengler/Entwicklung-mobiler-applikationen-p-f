@@ -32,7 +32,7 @@ Reputation / Trend / Hype
 Flutter ()   
 Angular ()   
 VueJS ()   
-**Svelte** ()   
+**Svelte** (extreme performance vorteile / non proprietary)   
 React (Native) ()   
 Kotlin (Native) ()   
 
@@ -44,12 +44,12 @@ Material Design...
 
 
 ### Backend Entwicklung Laufzeitumgebungen*
-Firebase - Backend as a Service ()  
+Firebase - Backend as a Service (leider m.E. sehr proprietär)  
 Python ()  
 Java ()  
 NodeJS ()     
-**Deno** ()  
-**[EVM](https://deno.land/x/web3)** ()  
+**Deno** (zukunftsorientierte Technologie)  
+**[EVM](https://deno.land/x/web3)** (zukunftsorientierte Technologie)  
 
 
 ## Themensammlung / Projektvorschläge
