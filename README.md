@@ -17,7 +17,8 @@ finde ich entwickler, die bock darauf haben diese app weiterzuentwickeln (zukunf
 steht eine vielversprechende Instanz hinter der technologie?  
 wie ist die doku / tutorials?  
 wie ist die lernkurve? (z.B. hat angular m.E. eine logarithmische lernkurve am anfang hart und steil - vs. svelte linear...)
-supported die technologie den Projektumfang auf eine ideale Art und Weise? (bei einem sehr umfangreichen projekt kann eine built in standardisierung wertvoll sein - z.B. angular httpClient für backend calls)  
+supported die technologie den Projektumfang auf eine ideale Art und Weise? (bei einem sehr umfangreichen projekt kann eine built in standardisierung wertvoll sein - z.B. angular httpClient für backend calls)   
+die app sollte leicht wartbar sein (kein spaghetticode --> clear separation of concerns...)  
 
 
 ### Als Investor / Projektverantwortlicher
