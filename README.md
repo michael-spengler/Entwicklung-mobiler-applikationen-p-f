@@ -27,46 +27,11 @@ Einfachheit der Lösung
 Reputation / Trend / Hype
 
 
-## Technologiesammlung / Optionen 
-
-### Frontend Frameworks*
-Flutter ()   
-Angular ()   
-VueJS ()   
-**Svelte** (extreme performance vorteile / non proprietary)   
-React (Native) ()   
-Kotlin (Native) ()   
-
-
-### Frontend Utility Collection
-Bootstrap ()   
-Material Design...  
-[Metamask Interaction](https://docs.metamask.io/guide/getting-started.html#basic-considerations) 
-
-
-### Backend Entwicklung Laufzeitumgebungen*
-Firebase - Backend as a Service (leider m.E. sehr proprietär)  
-Python ()  
-Java ()  
-NodeJS ()     
-**Deno** (zukunftsorientierte Technologie)  
-**[EVM](https://deno.land/x/web3)** (zukunftsorientierte Technologie)  
-
-
-## Themensammlung / Projektvorschläge
-[dance-planner.org]()   
-[volatility farming](https://github.com/distributed-ledger-technology/vofarm)   
-NFT Platform   
-QRate   
-Aufgaben Marktplatz (fiverr like aber open source und dezentral - Peer 2 Peer Marketplace)  
-
-
 ## Bewertungskriterien
 Technologieentscheidungen sollen nachvollziehbar und klar dokumentiert sein   
 Die App soll den o.g. Werten gerecht werden   
 Code Quality (High Cohesion, Loose Coupling, Separation of Concerncs)  
 Goodie: Automatisierte Unit Tests...  
-
 
 ## Bewertungszeitpunkt
 Eure Note steht am Ende der letzten Vorlesung dieses Semesters fest. Zwischenbenotungen auf Wunsch von Euch sind möglich.  
